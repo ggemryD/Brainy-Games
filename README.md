@@ -1,8 +1,8 @@
 # Brainy Games 🧠🎮
 
-A collection of fun and challenging terminal-based games written in Java. This was my final project for my first year in college!
+A collection of fun and challenging terminal-based games written in Java. Developed as a final project during my first year of college.
 
-## 🕹️ Games Included
+##  Games Included
 
 ### 1. 🧩 Riddle Game (Easy)
 Test your wit with a series of clever riddles!
@@ -59,4 +59,4 @@ A classic game of chance and observation.
   - Static Methods for modularity
 
 ---
-*Created as a First Year College Final Project.*
+*Developed as a first-year college final project to demonstrate foundational Java programming skills.*
